@@ -1,5 +1,6 @@
 name: Generate Podcast Feeds
-
+permissions:
+  contents: read
   
 on: [push]
 jobs: 
